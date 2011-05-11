@@ -1,0 +1,16 @@
+c2bf34ab9c68ed2555faa745a41c2f0f *DESCRIPTION
+b01739d708964f68bd4536745f78e030 *NAMESPACE
+568dc90784b03c4b251b5cbcd0b29a65 *R/diagrammpa.r
+63c63557bc07bf0e4ec5faedebd85606 *R/leermpa.R
+2e7e2da6a895c03f1e3e92bb141d0cf7 *R/matrizmpa.R
+b7dce7673ea2e30baf492db14d34b6a7 *R/mpafunc.R
+0df4ef8bcc2443acc867e9281894705a *R/plotmpa.r
+d91d9c4e6739915eafcdd6c919515ee8 *R/zzz.R
+c4f23cf76ee5a75b2912e8f9bf590718 *data/revista.rda
+a3510bdb97ad51c6cfa5502468ef56ba *man/diagram.mpa.Rd
+5c12998e904bd12043d229678f289760 *man/leer.mpa.Rd
+7462b0581ef2b9aefb5ded5193053d17 *man/matriz.mpa.Rd
+95f6f86c11d2fbe06f787541d532c48d *man/mpa.Rd
+33e8f90263da295c1cd6f6b8ca4d6b0c *man/plotmpa.Rd
+ce6c47389a64c22e8b0ee8008dd539d0 *man/revista.Rd
+486247e5e9904c8fd7c59122f5acfff3 *mpa-Ex.R
